@@ -4,8 +4,6 @@ I'm a US Navy Veteran passionate about programming. I believe in the idea of the
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/shawntruesdale/)
 
----
-
 <h2 align="center">Technologies:</h2>
 
 <p align="center">
