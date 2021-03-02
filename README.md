@@ -40,9 +40,6 @@ I'm a US Navy Veteran passionate about programming. I believe in the idea of the
   <a href="https://github.com/alyssabull/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shawntru&show_icons=true&theme=graywhite" height="200" width="500"/>
   </a>
-  <a href="https://github.com/alyssabull/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shawntru&theme=graywhite" height="200" width="300"/>
-  </a>
 </div>
 <!--
 **Shawntru/Shawntru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
